@@ -1,0 +1,6 @@
+github.com/JakubCzarlinski/go-logging v1.0.1 h1:wM5d20SVmpOXRhyBB+MXw9gD3nu0s6X02cS2GC6Dw9A=
+github.com/JakubCzarlinski/go-logging v1.0.1/go.mod h1:0BdRS81BSashzVj+BoNEZD+AvKMGdJCK5GBIpayvaag=
+github.com/JakubCzarlinski/go-pooling v1.0.0 h1:1CGA7OsuzLDZq6JZmb5FaSwKz6ZvnxWgaejzUa9ftYA=
+github.com/JakubCzarlinski/go-pooling v1.0.0/go.mod h1:owUMib6XOkEG0ciBqYc9JjRc1BRZuTIlGdutoE7czZI=
+github.com/fatih/structtag v1.2.0 h1:/OdNE99OxoI/PqaW/SuSK9uxxT3f/tcSZgon/ssNSx4=
+github.com/fatih/structtag v1.2.0/go.mod h1:mBJUNpUnHmRKrKlQQlmCrh5PuhftFbNv8Ys4/aAZl94=
